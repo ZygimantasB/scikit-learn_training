@@ -11,4 +11,5 @@ dependencies = [
     "matplotlib",
     "plotly",
     "notebook>=7.4.4",
+    "pyarrow>=21.0.0",
 ]
