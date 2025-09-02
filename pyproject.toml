@@ -12,4 +12,9 @@ dependencies = [
     "plotly",
     "notebook>=7.4.4",
     "pyarrow>=21.0.0",
+    "imbalanced-learn>=0.14.0",
+    "great-tables>=0.18.0",
+    "altair>=5.5.0",
+    "tensorflow>=2.20.0",
+    "statsmodels>=0.14.5",
 ]
